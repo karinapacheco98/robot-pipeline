@@ -2,8 +2,7 @@
 Library  SeleniumLibrary
 
 ** Variables **
-${SITE_URL}  
-${SITE_GOOGLE}  https://automationpratice.com.br/
+${SITE_URL}  https://automa-+ionpratice.com.br/
 ${USUARIO_EMAIL}  karinapacheco@teste.com
 ${USUARIO_SENHA}  123456
 
